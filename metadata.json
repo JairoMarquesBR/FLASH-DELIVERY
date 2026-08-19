@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Hut - Cooperativa de Entregadores",
+  "description": "Sistema de gestão de entregas, cálculo de adicionais, fechamento semanal fiscal de Quarta a Terça e relatórios para a cooperativa de motoboys da Pizza Hut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
